@@ -1,0 +1,15 @@
+body{
+    margin:0;
+    padding: 0;
+    background-color:#4392F1;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    
+}
+
+button, a {
+    font-family: 'Lobster', cursive;
+}
